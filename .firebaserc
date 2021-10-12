@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-getting-started-9497f"
+  },
+  "targets": {
+    "angular-getting-started-9497f": {
+      "hosting": {
+        "angular-geting-started": [
+          "angular-getting-started-9497f"
+        ]
+      }
+    }
+  }
+}
